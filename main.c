@@ -13,7 +13,7 @@ typedef struct
     int precio;
 }Producto;
 
-//funciones 
+funciones 
 //void buscarArtista(List*, char*);
 //void buscarGenero(List*, char*);
 //void mostrarListas(List*);
